@@ -14,8 +14,20 @@ import ch04_pjt_01.ems.utils.InitSampleData;
 public class MainClass {
 
 	public static void main(String[] args) {
-		GenericXmlApplicationContext ctx = 
-			    new GenericXmlApplicationContext("classpath:applicationContext.xml");
+//		GenericXmlApplicationContext ctx = 
+//			    new GenericXmlApplicationContext("classpath:applicationContext.xml");
+//		
+//		GenericXmlApplicationContext ctx = 
+//        new GenericXmlApplicationContext("classpath:appCtx1.xml",
+//        		"classpath:appCtx2.xml", "classpath:appCtx3.xml");
+//		String[] appCtxs = {"classpath:appCtx1.xml", "classpath:appCtx2.xml", 
+//              "classpath:appCtx3.xml"}; 
+//       GenericXmlApplicationContext ctx = 
+//               new GenericXmlApplicationContext(appCtxs);
+       
+       GenericXmlApplicationContext ctx = 
+               new GenericXmlApplicationContext("classpath:appCtxImport.xml");
+			
 		// 샘플 데이터
 	      InitSampleData initSampleData = ctx.getBean("initSampleData", 
 	            InitSampleData.class);
