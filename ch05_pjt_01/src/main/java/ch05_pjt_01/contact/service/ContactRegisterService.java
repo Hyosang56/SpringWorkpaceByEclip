@@ -6,6 +6,7 @@ import ch05_pjt_01.contact.ContactSet;
 import ch05_pjt_01.contact.dao.ContactDao;
 
 public class ContactRegisterService {
+	@Autowired
 	private ContactDao contactDao;
 	
 	public ContactRegisterService() {

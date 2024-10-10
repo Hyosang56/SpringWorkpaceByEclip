@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\BigDataAI\SpringWorkspaceByEclip\ch05_pjt_01_Inject\src\main\java\ch05_pjt_01\contact\MainClass.java"/>
 			<item value="C:\Users\user\Downloads\ch04_pjt_02\src\main\java\ch04_pjt_02\scope\MainClass.java"/>
 			<item value="C:\Users\user\Downloads\ch03_pjt_01\src\main\java\ch03_pjt_01\MainClass.java"/>
 		</list>
@@ -50,6 +51,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ch06_pjt_01"/>
 			<item value="ch05_pjt_01"/>
 			<item value="ch04_pjt_01"/>
 			<item value="ch03_pjt_03"/>
