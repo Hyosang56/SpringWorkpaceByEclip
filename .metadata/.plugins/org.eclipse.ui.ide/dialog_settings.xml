@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\user\Downloads\24년 10월 10일(목)에 실습했던 Spring 프로젝트들\ch06_pjt_01"/>
+			<item value="C:\Users\user\Downloads\24년 10월 10일(목)에 실습했던 Spring 프로젝트들\ch05_pjt_01_Inject"/>
 			<item value="C:\Users\user\Downloads\ch04_pjt_02"/>
 			<item value="C:\Users\user\Downloads\ch03_pjt_01"/>
 		</list>
